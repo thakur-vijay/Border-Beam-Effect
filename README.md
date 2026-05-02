@@ -23,7 +23,8 @@ animated borders without complex drawing code.
 
 ## 📱 Demo
 
-(Add your demo GIF/image here)
+<img width="800" height="427" alt="ScreenRecording2026-05-02at10 36 33PM-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7221d8e1-e06c-445c-b0dc-2e7b5d638251" />
+
 
 ------------------------------------------------------------------------
 
