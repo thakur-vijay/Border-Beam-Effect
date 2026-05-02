@@ -98,14 +98,14 @@ struct ContentView: View {
 
 ## ⚙️ Configuration Options
 
-  Parameter              Description
-  ---------------------- -----------------------------
-  `border`               Base border color
-  `beam`                 Gradient colors for beam
-  `beamBlur`             Blur radius for glow effect
-  `cornerRadius`         Corner radius of border
-  `isEnabled`            Enable/disable animation
-  `isFadeBorderHidden`   Hide base border
+| Parameter            | Description                     |
+|---------------------|---------------------------------|
+| `border`            | Base border color               |
+| `beam`              | Gradient colors for beam        |
+| `beamBlur`          | Blur radius for glow effect     |
+| `cornerRadius`      | Corner radius of border         |
+| `isEnabled`         | Enable/disable animation        |
+| `isFadeBorderHidden`| Hide base border                |
 
 ------------------------------------------------------------------------
 
